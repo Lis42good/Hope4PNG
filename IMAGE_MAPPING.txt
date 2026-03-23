@@ -1,0 +1,20 @@
+IMAGE MAPPING GUIDE
+===================
+
+COPY THESE IMAGES TO THE FOLLOWING LOCATIONS:
+
+VALUES SECTION (About - 4 images needed):
+1. Image 7 (PNG flag with hands) → wantok-spirit.jpg
+2. Image 8 (Village gathering) → local-focus.jpg
+3. Image 3 (Colorful community celebration) → community-driven.jpg
+4. Image 13 (Document signing) → transparency.jpg
+
+PROGRAMS SECTION (Programs - 3 images needed):
+5. Image 1 (Children with papers in yellow) → education-png.jpg
+6. Image 6 (Healthcare worker with stethoscope) → healthcare-png.jpg
+7. Image 9 (Food/supply distribution) → nutrition-png.jpg
+
+All images should be placed in:
+c:\Users\Admin\Documents\LISALYN LOYA 12 YELLOW\images\
+
+Format: JPG or PNG files
